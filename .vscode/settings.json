@@ -1,0 +1,10 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.packageManager": "yarn",
+  "files.watcherExclude": {
+    "**/target": true
+  }
+}
